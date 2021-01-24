@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "Normal",
+    "Type": "Speed",
+    "SubType": "",
+    "StatBase": 0,
+    "Value": 0,
+    "TotalModifier": 0,
+    "TempBase": {
+      "Key": "",
+      "Value": 0
+    },
+    "Modifiers": []
+  },
+  {
+    "Name": "Climb",
+    "Type": "Speed",
+    "SubType": "",
+    "StatBase": 0,
+    "Value": 0,
+    "TotalModifier": 0,
+    "TempBase": {
+      "Key": "",
+      "Value": 0
+    },
+    "Modifiers": []
+  },
+  {
+    "Name": "Swim",
+    "Type": "Speed",
+    "SubType": "",
+    "StatBase": 0,
+    "Value": 0,
+    "TotalModifier": 0,
+    "TempBase": {
+      "Key": "",
+      "Value": 0
+    },
+    "Modifiers": []
+  },
+  {
+    "Name": "Fly",
+    "Type": "Speed",
+    "SubType": "",
+    "StatBase": 0,
+    "Value": 0,
+    "TotalModifier": 0,
+    "TempBase": {
+      "Key": "",
+      "Value": 0
+    },
+    "Modifiers": []
+  },
+  {
+    "Name": "Burrow",
+    "Type": "Speed",
+    "SubType": "",
+    "StatBase": 0,
+    "Value": 0,
+    "TotalModifier": 0,
+    "TempBase": {
+      "Key": "",
+      "Value": 0
+    },
+    "Modifiers": []
+  },
+  {
+    "Name": "Other",
+    "Type": "Speed",
+    "SubType": "",
+    "StatBase": 0,
+    "Value": 0,
+    "TotalModifier": 0,
+    "TempBase": {
+      "Key": "",
+      "Value": 0
+    },
+    "Modifiers": []
+  }
+]
